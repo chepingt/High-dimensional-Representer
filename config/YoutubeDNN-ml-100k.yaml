@@ -1,0 +1,11 @@
+model: YoutubeDNN
+learning_rate: 1.0e-3
+weight_decay: 0
+dropout_p: 0.2
+batch_size: 1024
+embedding_dim: 32
+user_hidden_units: [64, 32]
+loss: mse 
+epochs: 30
+save_checkpoint_periods: 3
+optimizer: adam

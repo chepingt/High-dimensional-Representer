@@ -1,0 +1,6 @@
+model: SoftImputeMF 
+max_iters: 20
+embedding_dim: 12
+batch_size: 3000 # doesn't matter
+loss: mse 
+save_checkpoint_periods: 1

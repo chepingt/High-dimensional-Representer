@@ -1,0 +1,9 @@
+model: MF 
+learning_rate: 25.0
+weight_decay: 0
+batch_size: 3000
+embedding_dim: 200
+loss: mse 
+epochs: 10
+save_checkpoint_periods: 1
+optimizer: sgd

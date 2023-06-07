@@ -1,0 +1,9 @@
+model: MF 
+learning_rate: 1.0e-3
+weight_decay: 0
+batch_size: 1024
+embedding_dim: 8
+loss: mse 
+epochs: 30
+save_checkpoint_periods: 3
+optimizer: adam

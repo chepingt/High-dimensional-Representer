@@ -1,5 +1,5 @@
 # High-dimensional-Representer
-This code corresponds to our ICML paper titled "Representer Point Selection for Explaining Regularized High-dimensional Models".
+This code corresponds to our ICML paper titled "[Representer Point Selection for Explaining Regularized High-dimensional Models](https://arxiv.org/abs/2305.20002)".
 
 
 ## Instructions
